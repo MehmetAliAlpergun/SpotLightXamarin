@@ -1,6 +1,6 @@
 # SpotLightXamarin
 
-Library that highlights ui components for tutorials or walkthroughs
+Xamarin Android Library that highlights ui components for tutorials or walkthroughs
 
 Spotlight
 --------
@@ -34,6 +34,7 @@ TODO
 --------
 
 * Add Skip button
+* Add Xamarin IOS version of the library
 
 
 License
