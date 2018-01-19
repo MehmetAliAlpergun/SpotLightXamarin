@@ -5,7 +5,7 @@ Xamarin Android Library that highlights ui components for tutorials or walkthrou
 Spotlight
 --------
 
-![screen](https://github.com/MehmetAliAlpergun/SpotLightXamarin/blob/master/Screens/spotlight.gif)
+![screen](https://github.com/MehmetAliAlpergun/SpotLightXamarin/blob/master/Screens/Spotlight.gif)
 
 
 Usage
