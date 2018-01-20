@@ -2,6 +2,8 @@
 
 Xamarin Android Library that highlights ui components for tutorials or walkthroughs
 
+Thanks to https://github.com/TakuSemba/Spotlight Library port to C# and changed some parts
+
 Spotlight
 --------
 
