@@ -4,6 +4,12 @@ Xamarin Android Library that highlights ui components for tutorials or walkthrou
 
 Thanks to https://github.com/TakuSemba/Spotlight Library port to C# and changed some parts
 
+Install
+--------
+Available on NuGet
+
+[Nuget][Nuget]
+
 Spotlight
 --------
 
@@ -54,3 +60,6 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
+
+
+[Nuget]: https://www.nuget.org/packages/SpotlightXamarinAndroid
