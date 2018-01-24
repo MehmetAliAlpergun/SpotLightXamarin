@@ -2,6 +2,8 @@
 
 Xamarin Android Library that highlights ui components for tutorials or walkthroughs
 
+Xamarin IOS version: https://github.com/MehmetAliAlpergun/SpotLightXamarin.IOS
+
 Thanks to https://github.com/TakuSemba/Spotlight Library port to C# and changed some parts
 
 Install
@@ -42,7 +44,6 @@ TODO
 --------
 
 * Add Skip button
-* Add Xamarin IOS version of the library
 
 
 License
